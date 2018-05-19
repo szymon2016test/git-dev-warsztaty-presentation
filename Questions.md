@@ -1,7 +1,7 @@
 1.
 2. Git :)
 3.
-4.
+4. Jakie piwo
 5.
 6. Test 
 7.
